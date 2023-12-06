@@ -1,5 +1,5 @@
 {
-	"name": "Jabed Chowdhury",
+	"name": "Jabed",
 	"version": "30.0.0",
 	"description": "A simple Facebook Messenger Bot made by Jabed Chowdhury",
 	"main": "priyansh.js",
@@ -22,7 +22,7 @@
 		"prince",
 		"mental"
 	],
-	"author": "Jabed Chowdhury",
+	"author": "Jabed",
 	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/ARIYAN-VISION/Jabed/issues"
